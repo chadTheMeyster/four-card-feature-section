@@ -285,6 +285,9 @@
   .border-collapse {
     border-collapse: collapse;
   }
+  .cursor-pointer {
+    cursor: pointer;
+  }
   .resize {
     resize: both;
   }
@@ -445,6 +448,14 @@
         --tw-scale-z: 110%;
         scale: var(--tw-scale-x) var(--tw-scale-y);
       }
+    }
+  }
+  .active\:scale-105 {
+    &:active {
+      --tw-scale-x: 105%;
+      --tw-scale-y: 105%;
+      --tw-scale-z: 105%;
+      scale: var(--tw-scale-x) var(--tw-scale-y);
     }
   }
   .md\:mt-10 {
