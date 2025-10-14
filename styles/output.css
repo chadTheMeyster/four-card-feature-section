@@ -207,6 +207,12 @@
   .-bottom-96 {
     bottom: calc(var(--spacing) * -96);
   }
+  .-bottom-\[35\] {
+    bottom: calc(35 * -1);
+  }
+  .-bottom-\[40rem\] {
+    bottom: calc(40rem * -1);
+  }
   .bottom-0 {
     bottom: calc(var(--spacing) * 0);
   }
