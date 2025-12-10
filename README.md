@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://four-card-feature-section-ten-nu.vercel.app/)
+- Live Site URL: [live site URL](https://four-card-feature-section-ten-nu.vercel.app/)
 
 ## My process
 
